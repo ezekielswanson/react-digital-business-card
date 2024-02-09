@@ -1,0 +1,30 @@
+#root {
+  display: flex;
+  flex-direction: row;
+  justify-content: Center;
+  margin: 0 auto;
+  padding: 10rem 0rem;
+  text-align: center;
+}
+
+
+
+.main-container {
+  width: 30%;
+  background: #1A1B21;
+  border-radius: 10px 10px 0px 0px;
+}
+
+
+.main-container .about .about__image-container {
+  height: 317px;
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.main-container .about .about__image-container img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px 10px 0px 0px;
+}
