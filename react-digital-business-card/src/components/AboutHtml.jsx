@@ -5,8 +5,14 @@ export default function AboutHtml() {
 
         <div className="about">
                <div className="about__image-container">
-                <img src={myImage} alt="myImage" />
+                 <img src={myImage} alt="myImage" />
                </div>
+               <div className="about__intro-text">
+                    <h1>Ezekiel Swanson</h1>
+                    <h2>Frontend Developer</h2>
+                    <p><a href="#"portfolio></a></p>
+               </div>
+               <div className="about__intro-contact"></div>
               
         </div>
     )

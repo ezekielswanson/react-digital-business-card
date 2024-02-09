@@ -28,3 +28,27 @@
   object-fit: cover;
   border-radius: 10px 10px 0px 0px;
 }
+
+.main-container .about .about__intro-text {
+  padding: 21px 35px 24px;
+}
+
+.main-container .about .about__intro-text h1 {
+  margin-bottom: 6.20px;
+  color: #fff;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+}
+
+.main-container .about .about__intro-text h2 {
+  margin-bottom: 9px;
+  color: #F3BF99;
+  font-size: 12.8px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+
+}
