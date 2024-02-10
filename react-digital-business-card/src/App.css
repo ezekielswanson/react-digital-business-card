@@ -80,3 +80,17 @@
   text-decoration: none;
 
 }
+
+#root .main-container .interest-container {
+  padding: 34px 35px 30px;
+  text-align: left;
+  background: #fff;
+}
+
+.main-container .interest-container .interest__text-box-a h3 {
+  color: #F5F5F5;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 24px */
+}
