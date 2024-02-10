@@ -52,3 +52,31 @@
   line-height: normal;
 
 }
+
+
+
+.main-container .about .about__intro-text p a {
+  color: #F5F5F5;
+  text-decoration: none;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 15.36px */
+}
+
+
+
+
+.main-container .about .about__intro-text .about__intro-contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 11px;
+  background: #fff;
+  color: #374151;
+  border-radius: 6px;
+  text-decoration: none;
+
+}
