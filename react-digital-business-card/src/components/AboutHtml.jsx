@@ -19,7 +19,7 @@ export default function AboutHtml() {
                         <span>Email</span>
                     </a>
                </div>
-               
+        
         </div>
     )
   }

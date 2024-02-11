@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import AboutHtml from './components/AboutHtml.jsx';
 import InterestHtml from './components/InterestHtml.jsx';
+import FooterHtml from './components/FooterHtml.jsx';
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
       <div className="main-container">
         <AboutHtml />
         <InterestHtml />
- 
+        <FooterHtml />
       </div>
   )
 }
